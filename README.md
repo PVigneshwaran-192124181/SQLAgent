@@ -27,9 +27,9 @@ A Java + MySQL + OpenAI-based project that converts English questions into SQL q
 4. Run `AISQLAgent.java`
 
 ### Screenshots
-1. (  "C:\Users\Vigneshwaran\OneDrive\Desktop\SqlAgent\Screenshot\fetch name - 1 input.png" )
+1. ("C:\Users\Vigneshwaran\OneDrive\Desktop\SqlAgent\Screenshot\Fetching employees salary NLP to SQL Query.png" )  
+2. (  "C:\Users\Vigneshwaran\OneDrive\Desktop\SqlAgent\Screenshot\fetch name - 1 input.png" )
    (  "C:\Users\Vigneshwaran\OneDrive\Desktop\SqlAgent\Screenshot\fetch name - 2 Input,Output.png"  )
-2. ("C:\Users\Vigneshwaran\OneDrive\Desktop\SqlAgent\Screenshot\Fetching employees salary NLP to SQL Query.png" )  
 - Console running output  
 - MySQL table view in Workbench
 
